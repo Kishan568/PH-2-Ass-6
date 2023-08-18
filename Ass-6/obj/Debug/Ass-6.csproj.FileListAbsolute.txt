@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\bin\Debug\Ass-6.exe.config
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\bin\Debug\Ass-6.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\bin\Debug\Ass-6.pdb
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\obj\Debug\Ass-6.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\obj\Debug\Ass-6.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\obj\Debug\Ass-6.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\obj\Debug\Ass-6.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 6\Ass-6\obj\Debug\Ass-6.pdb
